@@ -12,7 +12,6 @@ public class Main {
     public static void cikarma (int sayi1,int sayi2){
         int cikarma = sayi1 - sayi2;
         System.out.println("Sayıların Farkı : "+cikarma);
-
     }
     }
 // yeni eklemeler yapacağım
